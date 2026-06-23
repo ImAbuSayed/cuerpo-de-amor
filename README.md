@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cuerpo de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-amor/) |
+| **Get License** | [License this song: Cuerpo de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cuerpo de amor, brillando en la oscuridad
+> Baby, you know, que te quiero de verdad
+> Esa mirada en el party me tiene envuelto
+> Es un juego prohibido, pero lo resuelvo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
